@@ -1,4 +1,4 @@
-Hello. My name is **Teo Zeng**, and I am an undergrad at UCSB. I am studying Applied Mathematics, Statistics and Data Science, and Pychological and Brain Sciences. I like **singing** and playing **basketball**.
+Hello. My name is **Teo Zeng**, and I am an undergrad at UCSB. I am studying Applied Mathematics, Statistics and Data Science, and Pychological and Brain Sciences. I like playing **basketball**.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
