@@ -1,11 +1,13 @@
-Hello. My name is **Teo Zeng**, and I am an undergrad at UCSB. I am studying Applied Mathematics, Statistics and Data Science, and Pychological and Brain Sciences. I like playing **basketball**.
+## About Me
 
-### Languages
+Hello. My name is **Teo Zeng**, and I am an undergrad at UCSB. I am studying Applied Mathematics 🧮 , Statistics and Data Science 📈 , and Pychological and Brain Sciences 🧠  . I like playing **Basketball**🏀 and **Data Science**🧬 !
+
+## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-### My Projects 
+## My Projects 
 
 1. [Forcasting Hospitality Industry Employees](https://github.com/Sir-Teo/pstat-174-final-project)
 2. [Case Study: Is Russel Westbrook a good player in the 2021-22 Season?](https://github.com/Sir-Teo/pstat131-project)
