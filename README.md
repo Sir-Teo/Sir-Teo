@@ -13,3 +13,4 @@ Hello. My name is **Teo Zeng**, and I am an undergrad at UCSB. I am studying App
 4. [Research in Covid-19 Modeling](https://github.com/Sir-Teo/covid-19)
 5. [Music Recommendation](https://github.com/Sir-Teo/MusRec)
 6. [Circuit Drawing Domain Specific Language](https://github.com/Sir-Teo/project)
+7. [Visualizing Grades](https://github.com/Sir-Teo/visualizing-grades)
