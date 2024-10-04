@@ -1,30 +1,4 @@
 
-## About Me
-
-Hi, I'm **Teo Zeng**, currently pursuing my Master’s in **Data Science** at **New York University**. I hold a **Bachelor’s in Applied Mathematics, Statistics, and Psychological & Brain Sciences** from **UC Santa Barbara**. With a passion for building innovative AI solutions and data-driven insights, I focus on applying **Machine Learning**, **Statistical Analysis**, and **NLP** to solve real-world problems. I thrive in collaborative environments and love exploring new technologies, from MLOps to anomaly detection models.
-
-Beyond my academic and professional work, I enjoy **Basketball**🏀, **Coding**🧬, and **Traveling**✈️.
-
----
-
-## Skills & Tools
-
-### Machine Learning & Analytics:
-- **Python** (PyTorch, TensorFlow, Scikit-Learn)
-- **SQL**, **R**, **C++**, **MATLAB**
-- **NLP**, **MLOps**, **Optimization**
-
-### Data Tools & Platforms:
-- **AWS**, **GCP**, **Docker**, **PowerBI**
-- **PySpark**, **Matplotlib**, **Pandas**
-
-### Frameworks & Libraries:
-- **Django**, **React**, **D3.js**
-
-Here’s a more comprehensive and polished version of your profile that integrates the additional information you provided:
-
----
-
 ## Teo Zeng
 
 Hi, I'm **Teo Zeng**, a Master’s student in **Data Science** at **New York University** with a solid foundation in **Applied Mathematics**, **Statistics**, and **Psychological & Brain Sciences** from **UC Santa Barbara**. I'm passionate about applying **Machine Learning**, **Statistical Analysis**, and **NLP** to solve real-world problems, with experience in developing AI-driven solutions and exploring cutting-edge technologies such as **MLOps**, **Anomaly Detection**, and **Optimization**.  
