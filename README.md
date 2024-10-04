@@ -12,10 +12,6 @@ I have a strong interest in working collaboratively, thriving in teams to bring 
 - **Location**: New York, NY  
 - **Website**: [sir-teo.github.io](https://sir-teo.github.io)  
 - **GitHub**: [Sir-Teo](https://github.com/Sir-Teo)  
-- **Followers**: 13 · **Following**: 18  
-- **Pro Achievements**: Pull Shark x2, Quickdraw, YOLO  
-
----
 
 ## Skills & Tools
 
